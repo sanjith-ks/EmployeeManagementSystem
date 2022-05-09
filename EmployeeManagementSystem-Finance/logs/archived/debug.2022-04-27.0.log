@@ -1,0 +1,138 @@
+2022-04-27 23:25:22 [main] INFO  c.e.m.EmployeeManagementSystemApplication_Finance -
+				No active profile set, falling back to default profiles: default
+2022-04-27 23:25:34 [main] INFO  c.e.m.EmployeeManagementSystemApplication_Finance -
+				Started EmployeeManagementSystemApplication_Finance in 14.562 seconds (JVM running for 16.087)
+2022-04-27 23:26:56 [http-nio-8084-exec-10] DEBUG c.e.m.c.EmployeeBasicController -
+				Redirected method to return all basic details of Employees
+2022-04-27 23:39:47 [main] INFO  c.e.m.EmployeeManagementSystemApplication_Finance -
+				No active profile set, falling back to default profiles: default
+2022-04-27 23:40:08 [main] INFO  c.e.m.EmployeeManagementSystemApplication_Finance -
+				Started EmployeeManagementSystemApplication_Finance in 26.214 seconds (JVM running for 27.737)
+2022-04-27 23:40:54 [http-nio-8084-exec-10] DEBUG c.e.m.c.EmployeeBasicController -
+				Redirected method to return all basic details of Employees
+2022-04-27 23:41:06 [http-nio-8084-exec-2] DEBUG c.e.m.c.SalaryInfoController -
+				Finance section has requested to retrieve all Employee's Salary Details.
+2022-04-27 23:41:35 [http-nio-8084-exec-5] DEBUG c.e.m.c.SalaryInfoController -
+				Finance section has requested to retrieve all Employee's Salary Details.
+2022-04-27 23:41:35 [http-nio-8084-exec-7] DEBUG c.e.m.c.SalaryInfoController -
+				Finance section has requested to retrieve all Employee's Salary Details.
+2022-04-27 23:41:36 [http-nio-8084-exec-8] DEBUG c.e.m.c.SalaryInfoController -
+				Finance section has requested to retrieve all Employee's Salary Details.
+2022-04-27 23:41:36 [http-nio-8084-exec-1] DEBUG c.e.m.c.SalaryInfoController -
+				Finance section has requested to retrieve all Employee's Salary Details.
+2022-04-27 23:41:36 [http-nio-8084-exec-3] DEBUG c.e.m.c.SalaryInfoController -
+				Finance section has requested to retrieve all Employee's Salary Details.
+2022-04-27 23:41:36 [http-nio-8084-exec-5] DEBUG c.e.m.c.SalaryInfoController -
+				Finance section has requested to retrieve all Employee's Salary Details.
+2022-04-27 23:41:36 [http-nio-8084-exec-7] DEBUG c.e.m.c.SalaryInfoController -
+				Finance section has requested to retrieve all Employee's Salary Details.
+2022-04-27 23:41:36 [http-nio-8084-exec-8] DEBUG c.e.m.c.SalaryInfoController -
+				Finance section has requested to retrieve all Employee's Salary Details.
+2022-04-27 23:41:37 [http-nio-8084-exec-1] DEBUG c.e.m.c.SalaryInfoController -
+				Finance section has requested to retrieve all Employee's Salary Details.
+2022-04-27 23:41:37 [http-nio-8084-exec-3] DEBUG c.e.m.c.SalaryInfoController -
+				Finance section has requested to retrieve all Employee's Salary Details.
+2022-04-27 23:41:37 [http-nio-8084-exec-5] DEBUG c.e.m.c.SalaryInfoController -
+				Finance section has requested to retrieve all Employee's Salary Details.
+2022-04-27 23:41:37 [http-nio-8084-exec-7] DEBUG c.e.m.c.SalaryInfoController -
+				Finance section has requested to retrieve all Employee's Salary Details.
+2022-04-27 23:41:37 [http-nio-8084-exec-8] DEBUG c.e.m.c.SalaryInfoController -
+				Finance section has requested to retrieve all Employee's Salary Details.
+2022-04-27 23:41:37 [http-nio-8084-exec-1] DEBUG c.e.m.c.SalaryInfoController -
+				Finance section has requested to retrieve all Employee's Salary Details.
+2022-04-27 23:41:37 [http-nio-8084-exec-3] DEBUG c.e.m.c.SalaryInfoController -
+				Finance section has requested to retrieve all Employee's Salary Details.
+2022-04-27 23:41:38 [http-nio-8084-exec-5] DEBUG c.e.m.c.SalaryInfoController -
+				Finance section has requested to retrieve all Employee's Salary Details.
+2022-04-27 23:41:38 [http-nio-8084-exec-7] DEBUG c.e.m.c.SalaryInfoController -
+				Finance section has requested to retrieve all Employee's Salary Details.
+2022-04-27 23:41:38 [http-nio-8084-exec-8] DEBUG c.e.m.c.SalaryInfoController -
+				Finance section has requested to retrieve all Employee's Salary Details.
+2022-04-27 23:41:38 [http-nio-8084-exec-3] DEBUG c.e.m.c.SalaryInfoController -
+				Finance section has requested to retrieve all Employee's Salary Details.
+2022-04-27 23:41:38 [http-nio-8084-exec-5] DEBUG c.e.m.c.SalaryInfoController -
+				Finance section has requested to retrieve all Employee's Salary Details.
+2022-04-27 23:41:38 [http-nio-8084-exec-7] DEBUG c.e.m.c.SalaryInfoController -
+				Finance section has requested to retrieve all Employee's Salary Details.
+2022-04-27 23:41:39 [http-nio-8084-exec-8] DEBUG c.e.m.c.SalaryInfoController -
+				Finance section has requested to retrieve all Employee's Salary Details.
+2022-04-27 23:41:39 [http-nio-8084-exec-1] DEBUG c.e.m.c.SalaryInfoController -
+				Finance section has requested to retrieve all Employee's Salary Details.
+2022-04-27 23:41:39 [http-nio-8084-exec-3] DEBUG c.e.m.c.SalaryInfoController -
+				Finance section has requested to retrieve all Employee's Salary Details.
+2022-04-27 23:41:39 [http-nio-8084-exec-5] DEBUG c.e.m.c.SalaryInfoController -
+				Finance section has requested to retrieve all Employee's Salary Details.
+2022-04-27 23:41:39 [http-nio-8084-exec-7] DEBUG c.e.m.c.SalaryInfoController -
+				Finance section has requested to retrieve all Employee's Salary Details.
+2022-04-27 23:43:50 [main] INFO  c.e.m.EmployeeManagementSystemApplication_Finance -
+				No active profile set, falling back to default profiles: default
+2022-04-27 23:44:01 [main] INFO  c.e.m.EmployeeManagementSystemApplication_Finance -
+				Started EmployeeManagementSystemApplication_Finance in 12.898 seconds (JVM running for 14.418)
+2022-04-27 23:44:21 [http-nio-8084-exec-7] DEBUG c.e.m.c.SalaryInfoController -
+				Finance section has requested to retrieve all Employee's Salary Details.
+2022-04-27 23:44:34 [http-nio-8084-exec-1] DEBUG c.e.m.c.EmployeeBasicController -
+				Redirected method to return all basic details of Employees
+2022-04-27 23:44:37 [http-nio-8084-exec-2] DEBUG c.e.m.c.EmployeeBasicController -
+				Redirected method to return all basic details of Employees
+2022-04-27 23:44:40 [http-nio-8084-exec-6] DEBUG c.e.m.c.EmployeeBasicController -
+				Redirected method to return all basic details of Employees
+2022-04-27 23:44:41 [http-nio-8084-exec-8] DEBUG c.e.m.c.EmployeeBasicController -
+				Redirected method to return all basic details of Employees
+2022-04-27 23:44:41 [http-nio-8084-exec-10] DEBUG c.e.m.c.EmployeeBasicController -
+				Redirected method to return all basic details of Employees
+2022-04-27 23:44:41 [http-nio-8084-exec-2] DEBUG c.e.m.c.EmployeeBasicController -
+				Redirected method to return all basic details of Employees
+2022-04-27 23:44:41 [http-nio-8084-exec-5] DEBUG c.e.m.c.EmployeeBasicController -
+				Redirected method to return all basic details of Employees
+2022-04-27 23:44:41 [http-nio-8084-exec-6] DEBUG c.e.m.c.EmployeeBasicController -
+				Redirected method to return all basic details of Employees
+2022-04-27 23:46:09 [main] INFO  c.e.m.EmployeeManagementSystemApplication_Finance -
+				No active profile set, falling back to default profiles: default
+2022-04-27 23:46:20 [main] INFO  c.e.m.EmployeeManagementSystemApplication_Finance -
+				Started EmployeeManagementSystemApplication_Finance in 13.403 seconds (JVM running for 14.944)
+2022-04-27 23:46:28 [http-nio-8084-exec-8] DEBUG c.e.m.c.EmployeeBasicController -
+				Redirected method to return all basic details of Employees
+2022-04-27 23:46:35 [http-nio-8084-exec-1] DEBUG c.e.m.c.EmployeeBasicController -
+				Redirected method to return all basic details of Employees
+2022-04-27 23:46:40 [http-nio-8084-exec-4] DEBUG c.e.m.c.EmployeeBasicController -
+				Redirected method to return all basic details of Employees
+2022-04-27 23:46:49 [http-nio-8084-exec-9] DEBUG c.e.m.c.EmployeeBasicController -
+				Redirected method to return all basic details of Employees
+2022-04-27 23:48:01 [main] INFO  c.e.m.EmployeeManagementSystemApplication_Finance -
+				No active profile set, falling back to default profiles: default
+2022-04-27 23:48:11 [main] INFO  c.e.m.EmployeeManagementSystemApplication_Finance -
+				Started EmployeeManagementSystemApplication_Finance in 12.589 seconds (JVM running for 14.159)
+2022-04-27 23:48:27 [http-nio-8084-exec-7] DEBUG c.e.m.c.EmployeeBasicController -
+				Redirected method to return all basic details of Employees
+2022-04-27 23:48:33 [http-nio-8084-exec-1] DEBUG c.e.m.c.EmployeeBasicController -
+				Redirected method to return all basic details of Employees
+2022-04-27 23:48:36 [http-nio-8084-exec-2] DEBUG c.e.m.c.EmployeeBasicController -
+				Redirected method to return all basic details of Employees
+2022-04-27 23:48:36 [http-nio-8084-exec-5] DEBUG c.e.m.c.EmployeeBasicController -
+				Redirected method to return all basic details of Employees
+2022-04-27 23:48:36 [http-nio-8084-exec-6] DEBUG c.e.m.c.EmployeeBasicController -
+				Redirected method to return all basic details of Employees
+2022-04-27 23:48:36 [http-nio-8084-exec-8] DEBUG c.e.m.c.EmployeeBasicController -
+				Redirected method to return all basic details of Employees
+2022-04-27 23:48:36 [http-nio-8084-exec-10] DEBUG c.e.m.c.EmployeeBasicController -
+				Redirected method to return all basic details of Employees
+2022-04-27 23:48:36 [http-nio-8084-exec-2] DEBUG c.e.m.c.EmployeeBasicController -
+				Redirected method to return all basic details of Employees
+2022-04-27 23:48:37 [http-nio-8084-exec-5] DEBUG c.e.m.c.EmployeeBasicController -
+				Redirected method to return all basic details of Employees
+2022-04-27 23:48:37 [http-nio-8084-exec-6] DEBUG c.e.m.c.EmployeeBasicController -
+				Redirected method to return all basic details of Employees
+2022-04-27 23:48:37 [http-nio-8084-exec-8] DEBUG c.e.m.c.EmployeeBasicController -
+				Redirected method to return all basic details of Employees
+2022-04-27 23:48:37 [http-nio-8084-exec-10] DEBUG c.e.m.c.EmployeeBasicController -
+				Redirected method to return all basic details of Employees
+2022-04-27 23:48:37 [http-nio-8084-exec-2] DEBUG c.e.m.c.EmployeeBasicController -
+				Redirected method to return all basic details of Employees
+2022-04-27 23:48:37 [http-nio-8084-exec-5] DEBUG c.e.m.c.EmployeeBasicController -
+				Redirected method to return all basic details of Employees
+2022-04-27 23:51:22 [main] INFO  c.e.m.EmployeeManagementSystemApplication_Finance -
+				No active profile set, falling back to default profiles: default
+2022-04-27 23:51:36 [main] INFO  c.e.m.EmployeeManagementSystemApplication_Finance -
+				Started EmployeeManagementSystemApplication_Finance in 15.957 seconds (JVM running for 17.449)
+2022-04-27 23:53:13 [http-nio-8084-exec-7] DEBUG c.e.m.c.EmployeeBasicController -
+				Redirected method to return all basic details of Employees

@@ -1,0 +1,48 @@
+2022-04-28 00:18:36 [main] INFO  c.e.m.EmployeeManagementSystemApplication_Finance -
+				No active profile set, falling back to default profiles: default
+2022-04-28 00:18:46 [main] INFO  c.e.m.EmployeeManagementSystemApplication_Finance -
+				Started EmployeeManagementSystemApplication_Finance in 12.503 seconds (JVM running for 13.868)
+2022-04-28 09:29:39 [main] INFO  c.e.m.EmployeeManagementSystemApplication_Finance -
+				No active profile set, falling back to default profiles: default
+2022-04-28 09:29:54 [main] INFO  c.e.m.EmployeeManagementSystemApplication_Finance -
+				Started EmployeeManagementSystemApplication_Finance in 16.909 seconds (JVM running for 18.518)
+2022-04-28 09:30:56 [http-nio-8084-exec-10] DEBUG c.e.m.c.EmployeeBasicController -
+				Redirected method to return all basic details of Employees
+2022-04-28 09:37:29 [http-nio-8084-exec-2] DEBUG c.e.m.c.AdditionalFeaturesController -
+				Finance Section has Paid Salary to Employee with ID :101
+2022-04-28 09:37:50 [http-nio-8084-exec-1] DEBUG c.e.m.c.AdditionalFeaturesController -
+				Finance Section has Paid Salary to Employee with ID :101
+2022-04-28 09:38:05 [http-nio-8084-exec-5] DEBUG c.e.m.c.AdditionalFeaturesController -
+				Finance Section has searched for all Employees with Name and Salary Details
+2022-04-28 09:38:53 [http-nio-8084-exec-7] DEBUG c.e.m.c.AdditionalFeaturesController -
+				Finance Section has Updated Salary 30000 to Employee with ID :101
+2022-04-28 09:39:02 [http-nio-8084-exec-6] DEBUG c.e.m.c.AdditionalFeaturesController -
+				Finance Section has Paid Salary to Employee with ID :101
+2022-04-28 09:39:09 [http-nio-8084-exec-9] DEBUG c.e.m.c.AdditionalFeaturesController -
+				Finance Section has searched for all Employees with Name and Salary Details
+2022-04-28 09:39:19 [http-nio-8084-exec-1] DEBUG c.e.m.c.AdditionalFeaturesController -
+				Finance Section has Paid Salary to Employee with ID :101
+2022-04-28 09:39:19 [http-nio-8084-exec-3] DEBUG c.e.m.c.AdditionalFeaturesController -
+				Finance Section has Paid Salary to Employee with ID :101
+2022-04-28 09:39:19 [http-nio-8084-exec-5] DEBUG c.e.m.c.AdditionalFeaturesController -
+				Finance Section has Paid Salary to Employee with ID :101
+2022-04-28 09:39:19 [http-nio-8084-exec-4] DEBUG c.e.m.c.AdditionalFeaturesController -
+				Finance Section has Paid Salary to Employee with ID :101
+2022-04-28 09:39:20 [http-nio-8084-exec-7] DEBUG c.e.m.c.AdditionalFeaturesController -
+				Finance Section has Paid Salary to Employee with ID :101
+2022-04-28 09:39:20 [http-nio-8084-exec-10] DEBUG c.e.m.c.AdditionalFeaturesController -
+				Finance Section has Paid Salary to Employee with ID :101
+2022-04-28 09:39:20 [http-nio-8084-exec-6] DEBUG c.e.m.c.AdditionalFeaturesController -
+				Finance Section has Paid Salary to Employee with ID :101
+2022-04-28 09:39:20 [http-nio-8084-exec-2] DEBUG c.e.m.c.AdditionalFeaturesController -
+				Finance Section has Paid Salary to Employee with ID :101
+2022-04-28 09:39:20 [http-nio-8084-exec-9] DEBUG c.e.m.c.AdditionalFeaturesController -
+				Finance Section has Paid Salary to Employee with ID :101
+2022-04-28 09:39:20 [http-nio-8084-exec-8] DEBUG c.e.m.c.AdditionalFeaturesController -
+				Finance Section has Paid Salary to Employee with ID :101
+2022-04-28 09:39:24 [http-nio-8084-exec-3] DEBUG c.e.m.c.AdditionalFeaturesController -
+				Finance Section has searched for all Employees with Name and Salary Details
+2022-04-28 09:39:24 [http-nio-8084-exec-5] DEBUG c.e.m.c.AdditionalFeaturesController -
+				Finance Section has searched for all Employees with Name and Salary Details
+2022-04-28 09:39:51 [http-nio-8084-exec-7] DEBUG c.e.m.c.SalaryInfoController -
+				Finance section has requested to retrieve all Employee's Salary Details.

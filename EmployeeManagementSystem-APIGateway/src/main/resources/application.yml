@@ -1,0 +1,30 @@
+spring:
+  application:
+    name: Zuul-Gateway
+
+server:
+  port: 8087
+  
+eureka:
+  client:
+    fetch-registry: true
+    register-with-eureka: true
+    service-url:
+      defaultzone: http://localhost:8761/eureka/
+    enabled: true
+    allow-redirects: true
+    
+zuul:
+  routes:
+    employee-admin:
+      path: /official/**
+      service-id: ADMIN 
+      sensitive-headers:
+    employee-finance:
+       path: /accounts/**
+       service-id: FINANCE
+       sensitive-headers:
+    employee-hr: 
+       path: /manager/**
+       service-id: HUMAN RESOURCE
+       sensitive-headers:
