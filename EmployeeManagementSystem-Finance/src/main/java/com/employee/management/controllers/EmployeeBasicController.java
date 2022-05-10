@@ -10,6 +10,7 @@ import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
@@ -43,7 +44,6 @@ public class EmployeeBasicController {
 	 */
 	@GetMapping(value="/basicdetails")
 	public String requestAllData(HttpServletResponse httpResponse) throws IOException {
-
 		if(employeeBasicService.requestAllDataService().equals("success")){
 			httpResponse.sendRedirect("/finance/getbasicdetails");
 			logger.debug("Finance section has requested Employee Basic Details of Admin Service and redirected to another path to get all basic details.");

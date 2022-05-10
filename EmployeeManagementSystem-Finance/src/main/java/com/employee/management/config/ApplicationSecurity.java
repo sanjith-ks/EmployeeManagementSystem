@@ -41,10 +41,6 @@ public class ApplicationSecurity extends WebSecurityConfigurerAdapter {
 		  .antMatchers("/admin/**").hasRole("ADMIN")
 		  .and().authorizeRequests()
 		  .antMatchers("/finance/**").hasAnyRole("ADMIN","FINANCE")
-		  .and().authorizeRequests()
-		  .antMatchers("/hr/**").hasAnyRole("ADMIN","HR")
-		  .and().authorizeRequests()
-		  .antMatchers("/employee/**").hasAnyRole("ADMIN","HR","FINANCE")
 		  .and().formLogin().defaultSuccessUrl("/swagger-ui.html");
 	}
 	

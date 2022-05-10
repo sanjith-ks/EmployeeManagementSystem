@@ -43,13 +43,7 @@ public class ApplicationSecurity extends WebSecurityConfigurerAdapter {
 	protected void configure(HttpSecurity http) throws Exception {
 		
 		http.csrf().disable().authorizeRequests()
-		  .antMatchers("/admin/**").hasRole("ADMIN")
-		  .and().authorizeRequests()
-		  .antMatchers("/finance/**").hasAnyRole("ADMIN","FINANCE")
-		  .and().authorizeRequests()
 		  .antMatchers("/hr/**").hasAnyRole("ADMIN","HR")
-		  .and().authorizeRequests()
-		  .and().authorizeRequests()
 		  .antMatchers("/employee/**").permitAll()
 		  .and().formLogin().defaultSuccessUrl("/swagger-ui.html",true)
 		  .and().logout().clearAuthentication(true).invalidateHttpSession(true)

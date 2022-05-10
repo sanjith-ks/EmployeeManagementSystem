@@ -40,10 +40,6 @@ public class ApplicationSecurity extends WebSecurityConfigurerAdapter {
 		http.csrf().disable().authorizeRequests()
 		  .antMatchers("/admin/**").hasRole("ADMIN")
 		  .and().authorizeRequests()
-		  .antMatchers("/finance/**").hasAnyRole("ADMIN","FINANCE")
-		  .and().authorizeRequests()
-		  .antMatchers("/hr/**").hasAnyRole("ADMIN","HR")
-		  .and().authorizeRequests()
 		  .antMatchers("/employee/**").permitAll()
 		  .and().formLogin().defaultSuccessUrl("/swagger-ui.html")
 		  ;
