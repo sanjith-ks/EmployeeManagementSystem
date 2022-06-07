@@ -14,7 +14,6 @@ import org.springframework.security.crypto.password.PasswordEncoder;
 
 
 /**
- * 
  * @author Sanjith
  * @version 27-4-2022
  */
@@ -41,8 +40,7 @@ public class ApplicationSecurity extends WebSecurityConfigurerAdapter {
 		  .antMatchers("/admin/**").hasRole("ADMIN")
 		  .and().authorizeRequests()
 		  .antMatchers("/employee/**").permitAll()
-		  .and().formLogin().defaultSuccessUrl("/swagger-ui.html")
-		  ;
+		  .and().formLogin().defaultSuccessUrl("/swagger-ui.html");
 	}
 	
 	@Bean
